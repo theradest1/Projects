@@ -46,7 +46,7 @@ Engine Tooning With Dyno:  (10/0/24 - 12/25/24)
         - Can be used for traction/launch control to get an exact torque very quickly
         - Plots the torque reduction from the max torque of linked RPM 
     - BSFC:
-        - ![Graph](Wisconsin%20Racing/Pictures/BSFCpng.png)
+        - [Graph Picture](Pictures/BSFCpng.png)
         - Brake-specific fuel consumption
         - the fuel (grams) per kW*hr for each rpm and torque
         - Used for finding (and improving) the efficiency of the engine
